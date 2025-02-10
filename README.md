@@ -1,8 +1,9 @@
 # Control Systems for Sustainable Water Valves  
-**KU Leuven & Comate | Experimental Research & Process Automation**  
+**KU Leuven & Comate**
 
 ## Overview  
 This project was developed during my internship at **KU Leuven** in collaboration with **Comate**, a leading engineering and design company. The research, led by a master thesis student, focused on evaluating the performance of **eco-friendly water valves** for sustainable water development. My role was to design and implement a **data acquisition and control system** for an experimental setup.  
+Additionally, I used this project as the basis for my **IB Computer Science HL Internal Assessment**.
 
 ## Features  
 ### Sensor Integration & Process Control  
@@ -15,4 +16,10 @@ This project was developed during my internship at **KU Leuven** in collaboratio
 
 ### Interactive Graphical User Interface (GUI)  
 - Designed an intuitive **Java-based GUI** for querying and visualizing sensor data.  
-- Enabled researchers to access and analyze valve performance efficiently.  
+- Enabled researchers to access and analyze valve performance efficiently.
+
+## Technologies Used  
+- **Programming:** Java, Arduino (C++), SQLite  
+- **Hardware:** Pressure Sensors, Servo Motor  
+- **Tools:** Onshape (CAD), Serial Communication Protocols  
+ 
